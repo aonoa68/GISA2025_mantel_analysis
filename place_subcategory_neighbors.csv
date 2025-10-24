@@ -1,0 +1,51 @@
+﻿phase,id,subcategory,neighbors,question_text
+0,1a,forest,"canyon, mountain_stream",「北国の深い山地で、樹齢数百年のブナが天蓋のように茂る手つかずの森」に対してどのような感情を抱きますか？上記の図を参考にお答えください。（複数選択可）
+0,1b,canyon,"dam_power, forest",「苔とシダに覆われ、年間を通じて霧雨に包まれる亜熱帯の渓谷」に対してどのような感情を抱きますか？（複数選択可）
+0,2a,cape_coast,"boat_shed, estuary_mangrove, sea_cave, waterfront_renewal, wetland_plain",「冬に氷の塊が海岸を埋め尽くし、断崖の上に原野が広がる岬」に対してどのような感情を抱きますか？上記の図を参考にお答えください。（複数選択可）
+0,2b,cape_coast,"boat_shed, estuary_mangrove, sea_cave, waterfront_renewal, wetland_plain",「星明かりの下でウミガメが静かに産卵する白い砂の入り江」に対してどのような感情を抱きますか？（複数選択可）
+0,3a,wetland_plain,"cape_coast, river_restoration",「朝靄の湿原をタンチョウが舞い、葦原が風にざわめく広大な平野」に対してどのような感情を抱きますか？上記の図を参考にお答えください。（複数選択可）
+0,3b,alpine_volcano,"alpine_windbreak, summit_shelter",「夏でも残雪が残り、高山植物が点描のように咲く標高二千メートルの火山帯」に対してどのような感情を抱きますか？（複数選択可）
+0,4a,estuary_mangrove,cape_coast,「入り組んだ水路にマングローブが繁り、カヌーでしか奥へ進めない汽水域」に対してどのような感情を抱きますか？上記の図を参考にお答えください。（複数選択可）
+0,4b,highland_grass,–,「草が波立つ外輪山の高原で、放牧の牛が風に揺れる鈴を鳴らす草原」に対してどのような感情を抱きますか？（複数選択可）
+0,5a,mountain_stream,"forest, microhydro_village, river_hearth",「苔むした岩を清流が走り、小滝が連なる緑深い渓流」に対してどのような感情を抱きますか？上記の図を参考にお答えください。（複数選択可）
+0,5b,wetland_plain,"cape_coast, river_restoration",「満潮と干潮で姿を変え、夜になると夜光虫が輝く遠浅の干潟」に対してどのような感情を抱きますか？（複数選択可）
+1,1c,sea_cave,cape_coast,「海を見下ろす岩穴がそのまま雨風よけになり、焚き火の跡だけが残る絶壁」に対してどのような感情を抱きますか？（複数選択可）
+1,1d,summit_shelter,"alpine_volcano, alpine_windbreak",「山頂で黒い溶岩を積み上げただけの小さな石室が強風から登山者を守る峰」に対してどのような感情を抱きますか？（複数選択可）
+1,2c,pilgrim_shrine,–,「巡礼路に点在する板壁と畳の質素な無人小堂」に対してどのような感情を抱きますか？（複数選択可）
+1,2d,riverside_shanty,–,「川の土手にブルーシートと流木で作った簡易住居が肩を寄せ合う河川敷」に対してどのような感情を抱きますか？（複数選択可）
+1,3c,boat_shed,cape_coast,「役目を終えた木舟を逆さにし、屋根代わりにした休憩所が残る磯場」に対してどのような感情を抱きますか？（複数選択可）
+1,3d,snow_cave,–,「雪をくり抜いて作った半球状の雪洞が夜明け前に淡く輝く尾根」に対してどのような感情を抱きますか？（複数選択可）
+1,4c,river_hearth,mountain_stream,「石で三角に積んだ即席かまどが残り、熾火の匂いが漂う河原のキャンプ跡」に対してどのような感情を抱きますか？（複数選択可）
+1,4d,alpine_windbreak,"alpine_volcano, summit_shelter",「腰高まで石を積んだだけの一坪ほどの窪地が風よけとなる高山帯」に対してどのような感情を抱きますか？（複数選択可）
+1,5c,drum_bath,terraced_rice,「畑の脇に置かれたドラム缶風呂が、薪の炎で湯気を上げる農村」に対してどのような感情を抱きますか？（複数選択可）
+1,5d,watch_hut,satoyama,「 竹と藁で編まれた見張り小屋が獣害を一晩中見張る山里の畑」に対してどのような感情を抱きますか？（複数選択可）
+2,1e,gassho_village,terraced_rice,「豪雪をいなす急勾配の茅葺き屋根が三角形に並ぶ川沿いの山村」に対してどのような感情を抱きますか？（複数選択可）
+2,1f,terraced_rice,"drum_bath, gassho_village",「海に迫る急斜面を小さな田んぼに区切り、石垣が千枚重なる棚田」に対してどのような感情を抱きますか？（複数選択可）
+2,2e,snow_cellar,onsen_town,「冬の雪を蔵に詰め、夏もひんやりと保存庫として使う集落の雪室」に対してどのような感情を抱きますか？（複数選択可）
+2,2f,satoyama,"onsen_town, reed_lake_fishery, urban_boulevard, watch_hut",「谷あいに水田が広がり、雑木林と水路がモザイク状に絡む里山の景観」に対してどのような感情を抱きますか？（複数選択可）
+2,3e,reclaimed_coast_farm,"industrial_bay, reed_lake_fishery",「干拓で生まれた平地に畑と水田が季節ごとに模様替えする海辺の農地」に対してどのような感情を抱きますか？（複数選択可）
+2,3f,dairy_pasture,"heated_greenhouse, retreat_housing",「牧草地、牛舎、堆肥小屋が輪を描き、ミルクの匂いが漂う高原の酪農地帯」に対してどのような感情を抱きますか？（複数選択可）
+2,4e,heated_greenhouse,dairy_pasture,「零下二十度でも内部が二十度を保たれる巨大ハウスが並ぶ寒冷地の畑」に対してどのような感情を抱きますか？（複数選択可）
+2,4f,retreat_housing,dairy_pasture,「高原の森に薪ストーブの煙があがり、別荘が点々と建つリトリート地域」に対してどのような感情を抱きますか？（複数選択可）
+2,5e,reed_lake_fishery,"reclaimed_coast_farm, satoyama",「湖岸でヨシを刈り取り、葦舟と漁網を絶えず修繕する水上生活の集落」に対してどのような感情を抱きますか？（複数選択可）
+2,5f,onsen_town,"satoyama, snow_cellar",「 雪囲いの回廊が家々を結び、温泉の湯気が路地を漂う豪雪地の温泉街」に対してどのような感情を抱きますか？（複数選択可）
+3,1g,sea_link_rest,offshore_airport,「海底トンネルと長橋がつながり、中ほどに展望フロアを抱く海上休憩施設」に対してどのような感情を抱きますか？（複数選択可）
+3,1h,rail_terminal,"underground_pedway, urban_boulevard",「一日に数十万人が交差する高速鉄道と在来線の巨大ターミナル駅」に対してどのような感情を抱きますか？（複数選択可）
+3,2g,underground_flood,dam_power,「地下深くに巨大な柱列が並び、洪水を受け止める“地下神殿”の遊水施設」に対してどのような感情を抱きますか？（複数選択可）
+3,2h,offshore_airport,sea_link_rest,「沖合の人工島に滑走路とターミナルビルが載る海上空港」に対してどのような感情を抱きますか？（複数選択可）
+3,3g,dam_power,"canyon, underground_flood",「山あいの巨大ダムから霧のような放水が観光名物になっている発電所」に対してどのような感情を抱きますか？（複数選択可）
+3,3h,underground_pedway,rail_terminal,「寒冷地の中心街を南北に貫き、暖房が効いた地下歩行空間が延々と続く市街地」に対してどのような感情を抱きますか？（複数選択可）
+3,4g,urban_boulevard,"rail_terminal, satoyama",「高層ビル街の大通りに黄金色の並木がまっすぐ伸びる都市の幹線道路」に対してどのような感情を抱きますか？（複数選択可）
+3,4h,wholesale_market,industrial_bay,「巨大な冷蔵庫と電子取引システムで生鮮品を管理する卸売市場」に対してどのような感情を抱きますか？（複数選択可）
+3,5g,industrial_bay,"reclaimed_coast_farm, wholesale_market",「コンテナヤード、発電施設、石油化学工場が一体化した湾岸の人工用地」に対してどのような感情を抱きますか？（複数選択可）
+3,5h,microhydro_village,mountain_stream,「水利組合が出資し、小規模水力で地域の電力を自給する農山村」に対してどのような感情を抱きますか？（複数選択可）
+4,1i,campus_city,smartcity_pilot,「研究機関と大学が放射状に配置され、中央に広大な公園が広がる計画都市」に対してどのような感情を抱きますか？（複数選択可）
+4,1j,redevelopment,"drone_testbed, waterfront_renewal",「超高層ビルと美術館、住宅棟を立体的に組み合わせ、屋上庭園が点在する再開発地区」に対してどのような感情を抱きますか？（複数選択可）
+4,2i,smartcity_pilot,"campus_city, solar_ev_suburb",「再生可能エネルギーと小型モビリティを一括管理するスマートシティの実証エリア」に対してどのような感情を抱きますか？（複数選択可）
+4,2j,solar_ev_suburb,"community_solar, smartcity_pilot",「太陽光パネルの屋根が並び、EVと蓄電池が標準装備の環境配慮型住宅地」に対してどのような感情を抱きますか？（複数選択可）
+4,3i,waterfront_renewal,"cape_coast, redevelopment",「倉庫街を文化施設と商業施設に改装し、海辺の遊歩道と一体化したウォーターフロント」に対してどのような感情を抱きますか？（複数選択可）
+4,3j,river_restoration,"highline_park, wetland_plain",「直線化された護岸を壊し、蛇行する水路と湿地を復元して希少鳥を呼び戻す保全エリア」に対してどのような感情を抱きますか？（複数選択可）
+4,4i,community_solar,"biomass_town, solar_ev_suburb",「住民出資で稼働する大規模太陽光発電所が夕焼けを背に立つ丘陵地」に対してどのような感情を抱きますか？（複数選択可）
+4,4j,drone_testbed,redevelopment,「震災跡地を活用し、自律型ドローンの試験飛行場と研究施設が並ぶ復興拠点」に対してどのような感情を抱きますか？（複数選択可）
+4,5i,highline_park,river_restoration,「廃線の鉄道高架を遊歩道とサイクリングロードに再生し、カフェが点在する観光ルート」に対してどのような感情を抱きますか？（複数選択可）
+4,5j,biomass_town,community_solar,「間伐材を発電・温室・木工に循環利用する森林バイオマスのモデルタウン」に対してどのような感情を抱きますか？（複数選択可）
