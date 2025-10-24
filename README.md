@@ -34,7 +34,7 @@ GISA2025_mantel_analysis/
 1. **環境をセットアップ**
    ```bash
    pip install -r requirements.txt
-````
+   ```
 
 2. **ノートブックを実行**
 
