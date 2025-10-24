@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "GISA2025 Mantel Proximity Analysis"
+authors:
+  - family-names: Onohara
+    given-names: Ayaka
+date-released: 2025-10-24
+license: MIT
+repository-code: "https://github.com/aonoa68/GISA2025_mantel_analysis"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Onohara
+      given-names: Ayaka
+  title: "Mantel test-based analysis of spatial proximity and affective similarity"
+  year: 2025

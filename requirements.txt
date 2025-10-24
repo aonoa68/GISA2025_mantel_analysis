@@ -1,0 +1,7 @@
+# Minimal requirements for Mantel proximity analysis
+pandas
+numpy
+scipy
+scikit-bio
+geopandas
+matplotlib
