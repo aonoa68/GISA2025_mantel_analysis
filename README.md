@@ -71,10 +71,11 @@ matplotlib
 
 ## 🪪 ライセンス
 
-本リポジトリ内のコード・データは **CC BY 4.0** に基づき公開しています。
-引用・再利用時には以下の形式で出典を明記してください。
+- **Source code (e.g., .ipynb, .py)**: Licensed under the **MIT License**. See [`LICENSE`](./LICENSE).
+- **Data and documentation (e.g., CSVs, README, figures)**: Licensed under **CC BY 4.0**. See [`LICENSE_DATA`](./LICENSE_DATA).
 
-> Onohara, A. (2025). GISA2025 Mantel Proximity Analysis. GitHub repository: [https://github.com/aonoa68/GISA2025_mantel_analysis](https://github.com/aonoa68/GISA2025_mantel_analysis)
+### Attribution format (for data/docs)
+Onohara, A. (2025). *GISA2025 Mantel Proximity Analysis* (CC BY 4.0). [https://github.com/aonoa68/GISA2025_mantel_analysis](https://github.com/aonoa68/GISA2025_mantel_analysis)
 
 ---
 
@@ -82,7 +83,3 @@ matplotlib
 
 小野原彩香, 大内啓樹（2025）「場所の感情地図－テキスト埋め込みと空間的近接性による環境段階モデルの検証－」地理情報システム学会（GISA 2025）ポスター発表
 `Phase-Dependent Emotion Maps of Place A Mantel Analysis Using Text Embeddings and Spatial Proximity`
-
-
-```
-
