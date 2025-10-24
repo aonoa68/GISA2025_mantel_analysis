@@ -14,6 +14,7 @@
 GISA2025_mantel_analysis/
 ├─ W4_2025_GISA_mantel_proximity_analysis.ipynb   # 分析ノートブック
 ├─ pivot_table_id.csv                              # 入力データ
+├─ place_subcategory_neighbors.csv                 # 場所隣接定義ファイル
 ├─ README.md                                       # 本ファイル
 └─ requirements.txt                                # 環境依存パッケージ（任意）
 
@@ -55,6 +56,7 @@ GISA2025_mantel_analysis/
 | ---------------------------------------------- | ---------------- | --------------------------------------- |
 | `pivot_table_id.csv`                           | 各地点の感情・文化的特徴の集計値 | 行＝地点、列＝特徴量                              |
 | `W4_2025_GISA_mantel_proximity_analysis.ipynb` | Mantel検定の実装と可視化  | Python (pandas, scikit-bio, matplotlib) |
+| `place_subcategory_neighbors.csv` |ある場所カテゴリー（例: forest）が、他のどのカテゴリー（例: canyon, mountain_stream）と“隣接関係”にあるか（＝文脈的・意味的・空間的な類似があるか）を定義するリスト|
 
 ---
 
