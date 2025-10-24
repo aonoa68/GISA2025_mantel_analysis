@@ -1,0 +1,2 @@
+# GISA2025_mantel_analysis
+GISA2025大会発表内容の分析スクリプトです。
